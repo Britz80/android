@@ -1,0 +1,567 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",MAGIC KIDS
+https://live.admefy.com/live/default/rival_maroon_4fb1e.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",ENERGEEK
+https://stmv1.voxhdnet.com/energeek/energeek/chunklist_w959585101.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",EL CHAVO TV
+https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",DREIKO TV
+http://regioplay.xyz/php/SR_REGIO_411112_/dreiko.php?f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",KANADE TV
+https://kanadetvlatino-usct.streaming.media.azure.net/66afd58d-114f-48d5-bc00-aa6cd5203912/80e7baff-9e17-4bad-8058-93e7160fe85a.ism/manifest(format=m3u8-aapl)
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",LOCOMOTION
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",MULTIMEDIOS MTY
+http://regioplay.xyz/php/SR_REGIO_411112_/multimedios.php?f=.m3u8
+#EXTINF:0 tvg-id="WOWTV.us" group-title="Lista TV",WOW TV
+https://regioplay.xyz/php/SR_REGIO_411112_/wowtv.php
+#EXTINF:0 tvg-id="NETtv.svn" group-title="Lista TV",NET TV
+http://regioplay.xyz/php/SR_REGIO_411112_/nettv.php?f=.m3u8
+#EXTINF:0 tvg-id="otr" group-title="Lista TV",Star Channel
+https://edge1.stg.cvattv.com.ar/live/live2/FXHD/SA_Live_fta/index.m3u8
+#EXTINF:0 tvg-id="LA2.es" group-title="Lista TV",LA 2
+https://rtvelivestreamv3.akamaized.net/la2_main_dvr.m3u8
+#EXTINF:0 tvg-id="RTespanol.nws" group-title="Lista TV",RT ESPANOL
+https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
+#EXTINF:0 tvg-id="EstrellaTV.us" group-title="Lista TV",ESTRELLA TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",AZTECA UNO
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:0 tvg-id="Azteca7.mx" group-title="Lista TV",AZTECA 7
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",AZTECA 7.2
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",ADN40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8 
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",CANAL 26 AGUASCALIENTES
+http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",LATINOS TV
+https://cloud2.streaminglivehd.com:1936/8044/8044/.m3u8
+#EXTINF:0 tvg-id="Videorola.us" group-title="Lista TV",VIDEOROLA
+https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",CANAL 26 AGUASCALIENTES
+http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
+#EXTINF:0 tvg-id="PAKA.ar" group-title="Lista TV",PAKA PAKA
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/.m3u8
+#EXTINF:0 tvg-id="Animax.de" group-title="Lista TV",ANIMAX
+https://stmv1.voxhdnet.com/erick3041/erick3041/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",REWIND TV
+https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",LIM TV
+https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
+
+#EXTINF:0 tvg-id="otr" group-title="Lista TV",STAR CHANNEL
+http://regioplay.xyz/php/SR_REGIO_411112_/th.php?channel=vf0rrk11x&f=.m3u8
+#EXTINF:0 tvg-id="TNT.mx" group-title="Lista TV",TNT
+http://regioplay.xyz/php/SR_REGIO_411112_/th.php?channel=ntn_t144&f=.m3u8
+#EXTINF:0 tvg-id="Telemundo.mx" group-title="Lista TV",TELEMUNDO
+http://regioplay.xyz/php/SR_REGIO_411112_/th.php?channel=tl_25llkk&f=.m3u8
+#EXTINF:0 tvg-id="UnivisionEast.us" group-title="Lista TV",UNIVISION
+http://regioplay.xyz/php/SR_REGIO_411112_/th.php?channel=unv_99tt&f=.m3u8
+#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="Lista TV",NICK
+http://regioplay.xyz/php/SR_REGIO_411112_/th.php?channel=rr_99rrr&f=.m3u8
+#EXTINF:0 tvg-id="Investigation.uk" group-title="Lista TV",DISCOVERY ID
+http://regioplay.xyz/php/SR_REGIO_411112_/th.php?channel=1d_lg55&f=.m3u8
+#EXTINF:0 tvg-id="History.mx" group-title="Lista TV",HISTORY CHANNEL
+http://regioplay.xyz/php/SR_REGIO_411112_/th.php?channel=vc_bt33&f=.m3u8
+#EXTINF:0 tvg-id="CartoonNetwork.mx" group-title="Lista TV",CARTOON NETWORK
+http://regioplay.xyz/php/SR_REGIO_411112_/th.php?channel=8kkctoon&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",MEGA (CHILE)
+http://regioplay.xyz/php/SR_REGIO_411112_/th.php?channel=mgv9cll&f=.m3u8
+#EXTINF:0 tvg-id="Tlnovelas.mx" group-title="Lista TV",TLNOVELAS
+http://regioplay.xyz/php/SR_REGIO_411112_/th.php?channel=tn_5100&f=.m3u8
+#EXTINF:0 tvg-id="DisneyChannel.mx" group-title="Lista TV",DISNEY CHANNEL
+http://regioplay.xyz/php/SR_REGIO_411112_/th.php?channel=dk_0155&f=.m3u8
+#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="Lista TV",NICK
+http://regioplay.xyz/php/SR_REGIO_411112_/th.php?channel=teen920&f=.m3u8
+#EXTINF:0 tvg-id="CinemaxO.mx" group-title="Lista TV",CINEMAX
+http://regioplay.xyz/php/SR_REGIO_411112_/th.php?channel=cc_m99x&f=.m3u8
+#EXTINF:0 tvg-id="Space.mx" group-title="Lista TV",SPACE
+http://regioplay.xyz/php/SR_REGIO_411112_/th.php?channel=kx_rrt22&f=.m3u8
+#EXTINF:0 tvg-id="DiscoveryChannel.mx" group-title="Lista TV",DISCOVERY CHANNEL
+http://regioplay.xyz/php/SR_REGIO_411112_/th.php?channel=dt_xx99&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",A MAS MX
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=amas&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",AZTECA UNO MX
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=aztecauno&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",EL DOS MX
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=eldos&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",CANAL 5 MX
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=elcinco&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="Azteca7.mx" group-title="Lista TV",AZTECA 7
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=azteca7&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",EL NUEVE MX
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=elnueve&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",IMAGEN TV
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=imagentv&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="MultimediosMonterrey.mx" group-title="Lista TV",MULTIMEDIOS
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=multimedios&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="OnceTV.mx" group-title="Lista TV",ONCE TV
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="OnceTV.mx" group-title="Lista TV",ONCE TV HD
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=oncetvhd&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="DistritoComedia.mx" group-title="Lista TV",DISTRITO COMEDIA
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=distrito&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",UNICABLE MX
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=unicable&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",MVSTV MX
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=mvstv&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",ANTENA 3 Int
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=antena3int&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",A3 SERIES
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=a3series&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="StarTVE.cl" group-title="Lista TV",STAR TVE
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=startve&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="TVE.mx" group-title="Lista TV",TVE
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=tve&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="CaracolColombia.cl" group-title="Lista TV",CARACOL
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=caracol&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",RCN
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=rcn&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="Galavision.us" group-title="Lista TV",GALAVISION
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=galavision&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="Glitz.mx" group-title="Lista TV",GLITZ
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=glitz&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="Telemundo.mx" group-title="Lista TV",TELEMUNDO
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=telemundo&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="Telemundo.mx" group-title="Lista TV",TELEMUNDO Internacional
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=telemundoint&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="UniMas.us" group-title="Lista TV",UNIMAS
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=unimas&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="AzCorazon.mx" group-title="Lista TV",AZ CORAZON
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=azcorazon&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="AE.ca" group-title="Lista TV",A&E
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=ae&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="AXN.mx" group-title="Lista TV",AXN
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=axn&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ComedyCentral.mx" group-title="Lista TV",COMEDY CENTRAL
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=comedy&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",Entertaiment
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=e&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="FOX.nl" group-title="Lista TV",FOX Channel
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=starch&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="FoxLife.mx" group-title="Lista TV",FOX LIFE
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=starlife&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="FX.mx" group-title="Lista TV",FX
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=fx&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="Investigation.uk" group-title="Lista TV",INVESTIGATION Discovery
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=id&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="Pasiones.us" group-title="Lista TV",PASIONES
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=pasiones&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",RCN Novelas
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=univtln&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="SonyCrimeChannel.uk" group-title="Lista TV",SONY Channel
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=sony&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="Tlnovelas.mx" group-title="Lista TV",TLNovelas
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=tlnovelas&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",Tele Novelas
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=univtln&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="TBS.mx" group-title="Lista TV",TBS
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=tbs&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="TNTSeries.cl" group-title="Lista TV",TNT Series
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=tntseries&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="TruTV.uk" group-title="Lista TV",TRU TV
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=trutv&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",UNIVERSAL TV
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=universal&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="WarnerHD.mx" group-title="Lista TV",WARNER TV
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=warner&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",AZ CINEMA
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=azcinema&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="AMC.mx" group-title="Lista TV",AMC
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=amc&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="CinecanalW.mx" group-title="Lista TV",CINECANAL
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=cinecanal&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="CinemaxO.mx" group-title="Lista TV",CINEMAX
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=cinemax&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="DePelicula.mx" group-title="Lista TV",DE PELICULA
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=d&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",DE PELICULA PLUS
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=d&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",DHE
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=dhe&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="EuropaEuropa.ar" group-title="Lista TV",EUROPA
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=eur&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="FilmArts.mx" group-title="Lista TV",FILM & ARTS
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=filmarts&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="FXMovie.us" group-title="Lista TV",FXM
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=fxm&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ISat.mx" group-title="Lista TV",ISAT
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=isat&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="Multicinema.mx" group-title="Lista TV",MULTICINEMA
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=mc&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="Multipremier.mx" group-title="Lista TV",MULTIPREMIER
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",MORBIDO
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=morbido&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ParamountChannel.mx" group-title="Lista TV",PARAMOUNT Channel
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=paramount&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="Space.mx" group-title="Lista TV",SPACE
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="StudioUniversal.mx" group-title="Lista TV",STUDIO Universal
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=studiouniversal&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="SyFy.mx" group-title="Lista TV",SYFY
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=syfy&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="TCM.mx" group-title="Lista TV",TCM
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=tcm&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="TNT.mx" group-title="Lista TV",TNT
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=tnt&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="AzMundo.mx" group-title="Lista TV",AZ MUNDO
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=azmundo&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="AnimalPlanet.mx" group-title="Lista TV",ANIMAL Planet
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=anima&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="DiscoveryChannel.mx" group-title="Lista TV",DISCOVERY Channel
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=discoverych&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="DiscoverySci.mx" group-title="Lista TV",Discovery SCIENCE
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=dciencia&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="DiscoveryCivil.mx" group-title="Lista TV",Discovery CIVILIZATION
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=dcivil&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="Lista TV",Discovery THEATER
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=dtheater&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="DiscoveryTurbo.mx" group-title="Lista TV",Discovery TURBO
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=dturbo&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="Discovery.uk" group-title="Lista TV",Discovery WORLD
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=dworld&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="FoodNetwork.eu" group-title="Lista TV",FOOD Network
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=food&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ElGourmet.mx" group-title="Lista TV",EL GOURMET
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=gourmet&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="Lifetime.br" group-title="Lista TV",LIFE TIME
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=lifetime&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="History.mx" group-title="Lista TV",HISTORY Channel
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=history&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",Histrory 2
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=h2&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="HomeHealth.pe" group-title="Lista TV",Home & Health
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=hh&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="HolaTV.us" group-title="Lista TV",HOLA TV
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=holatv&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="Maschic.mx" group-title="Lista TV",MAS CHIC
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=maschic&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="NatGeo.mx" group-title="Lista TV",NATGEO
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=natgeo&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="NatGeoWild.mx" group-title="Lista TV",Natgeo WILD
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=natgeowild&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="tlc-russia" group-title="Lista TV",TLC Discovery
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=tlc&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",PREMIUM TV
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",INFANTILES
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",MUSICA
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",ATV PE
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=atv&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="Telemundo.mx" group-title="Lista TV",TELEMUNDO
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=telemundo&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="Azteca7.mx" group-title="Lista TV",AZTECA 7
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=azteca7&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="Azteca7.mx" group-title="Lista TV",AZTECA 7 HD
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=azteca7hd&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",IMAGEN TV
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=imagentv&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",EL DOS MX
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=eldos&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",EL CINCO MX
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=elcinco&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",EL CINCO MX HD
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=elcincohd&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="UNIVERSO.us" group-title="Lista TV",UNIVERSO
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=universo&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",A MAS MX
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=amas&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",AZTECA UNO MX
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=aztecauno&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",EL NUEVE MX
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=elnueve&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="OnceTV.mx" group-title="Lista TV",ONCE TV
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="Canal22.mx" group-title="Lista TV",CANAL 22
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=canal22&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="MultimediosMonterrey.mx" group-title="Lista TV",MULTIMEDIOS
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=multimedios&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="DistritoComedia.mx" group-title="Lista TV",DISTRITO COMEDIA
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=distrito&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",UNICABLE MX
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=unicable&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",MVSTV MX
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=mvstv&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",ANTENA 3 Int
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=antena3int&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",A3 SERIES
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=a3series&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="StarTVE.cl" group-title="Lista TV",STAR TVE
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=startve&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="TVE.mx" group-title="Lista TV",TVE
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=tve&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="Galavision.us" group-title="Lista TV",GALAVISION
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=galavision&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="Glitz.mx" group-title="Lista TV",GLITZ
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=glitz&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="Telemundo.mx" group-title="Lista TV",TELEMUNDO Internacional
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=telemundoint&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="UniMas.us" group-title="Lista TV",UNIMAS
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=unimas&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",UNIV
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=univ-1&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="AzCorazon.mx" group-title="Lista TV",AZ CORAZON
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=azcorazon&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="AE.ca" group-title="Lista TV",A&E
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=ae&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="AXN.mx" group-title="Lista TV",AXN
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=axn&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ComedyCentral.mx" group-title="Lista TV",COMEDY CENTRAL
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=comedy&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",Entertaiment
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=e&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="FX.mx" group-title="Lista TV",FX
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=fx&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="Investigation.uk" group-title="Lista TV",INVESTIGATION Discovery
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=id&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="Pasiones.us" group-title="Lista TV",PASIONES
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=pasiones&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="SonyCrimeChannel.uk" group-title="Lista TV",SONY Channel
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=sony&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="TBS.mx" group-title="Lista TV",TBS
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=tbs&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",Tele Novelas
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=univtln&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="Tlnovelas.mx" group-title="Lista TV",TLNovelas
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=tlnovelas&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="TNTSeries.cl" group-title="Lista TV",TNT Series
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=tntseries&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="TruTV.uk" group-title="Lista TV",TRU TV
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=trutv&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",UNIVERSAL TV
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=universal&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="WarnerHD.mx" group-title="Lista TV",WARNER TV
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=warner&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",AZ CINEMA
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=azcinema&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="AMC.mx" group-title="Lista TV",AMC
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=amc&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="CinecanalW.mx" group-title="Lista TV",CINECANAL
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=cinecanal&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="CinemaxO.mx" group-title="Lista TV",CINEMAX
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=cinemax&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="CineSony.us" group-title="Lista TV",CINE SONY
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=cinesony&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",D PELICULA
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=d&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",D PELICULA CLASICO
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=d&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",D PELICULA PLUS
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=d&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",DHE
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=dhe&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="EuropaEuropa.ar" group-title="Lista TV",EUROPA
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=eur&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="FilmArts.mx" group-title="Lista TV",FILM & ARTS
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=filmarts&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="FXMovie.us" group-title="Lista TV",FXM
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=fxm&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ISat.mx" group-title="Lista TV",ISAT
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=isat&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="Multicinema.mx" group-title="Lista TV",MULTICINEMA
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=mc&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="Multipremier.mx" group-title="Lista TV",MULTIPREMIER
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",MORBIDO
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=morbido&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ParamountChannel.mx" group-title="Lista TV",PARAMOUNT Channel
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=paramount&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="Space.mx" group-title="Lista TV",SPACE
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="StudioUniversal.mx" group-title="Lista TV",STUDIO Universal
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=studiouniversal&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="SyFy.mx" group-title="Lista TV",SYFY
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=syfy&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="TCM.mx" group-title="Lista TV",TCM
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=tcm&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="TNT.mx" group-title="Lista TV",TNT
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=tnt&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="AzMundo.mx" group-title="Lista TV",AZ MUNDO
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=azmundo&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="AnimalPlanet.mx" group-title="Lista TV",ANIMAL Planet
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=anima&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="DiscoveryChannel.mx" group-title="Lista TV",DISCOVERY Channel
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=discoverych&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="DiscoverySci.mx" group-title="Lista TV",Discovery SCIENCE
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=dciencia&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="DiscoveryCivil.mx" group-title="Lista TV",Discovery CIVILIZATION
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=dcivil&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="Lista TV",Discovery THEATER
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=dtheater&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="DiscoveryTurbo.mx" group-title="Lista TV",Discovery TURBO
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=dturbo&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="Discovery.uk" group-title="Lista TV",Discovery WORLD
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=dworld&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="FoodNetwork.eu" group-title="Lista TV",FOOD Network
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=food&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ElGourmet.mx" group-title="Lista TV",EL GOURMET
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=gourmet&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="Lifetime.br" group-title="Lista TV",LIFE TIME
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=lifetime&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="History.mx" group-title="Lista TV",HISTORY Channel
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=history&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista TV",Histrory 2
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=h2&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="HomeHealth.pe" group-title="Lista TV",Home & Health
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=hh&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="HolaTV.us" group-title="Lista TV",HOLA TV
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=holatv&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="Maschic.mx" group-title="Lista TV",MAS CHIC
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=maschic&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="NatGeo.mx" group-title="Lista TV",NATGEO
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=natgeo&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="NatGeoWild.mx" group-title="Lista TV",Natgeo WILD
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=natgeowild&k=SrRegio&f=.m3u8
+#EXTINF:0 tvg-id="tlc-russia" group-title="Lista TV",TLC Discovery
+http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=tlc&k=SrRegio&f=.m3u8
+
+#EXTINF:0 tvg-id="Canal24Horas.es" group-title="Lista 25",24 HORAS
+http://45.181.122.17:8000/play/a01l
+#EXTINF:0 tvg-id="ext" group-title="Lista 25",AE Mundo
+http://45.181.122.17:8000/play/a00u
+#EXTINF:0 tvg-id="AXN.mx" group-title="Lista 25",AXN
+http://45.181.122.17:8000/play/a00b
+#EXTINF:0 tvg-id="AnimalPlanet.mx" group-title="Lista 25",Animal Planet
+http://45.181.122.17:8000/play/a00l
+#EXTINF:0 tvg-id="Canal13.ar" group-title="Lista 25",CANAL 13
+http://45.181.122.17:8000/play/a019
+#EXTINF:0 tvg-id="Chilevision.cl" group-title="Lista 25",CHV
+http://45.181.122.17:8000/play/a018
+#EXTINF:0 tvg-id="CNNChile.cl" group-title="Lista 25",CNN Chile
+http://45.181.122.17:8000/play/a02i
+#EXTINF:0 tvg-id="CNNEspanol.cl" group-title="Lista 25",CNN Espanol
+http://45.181.122.17:8000/play/a014
+#EXTINF:0 tvg-id="CanalEstrellas.sp" group-title="Lista 25",Canal Estrellas
+http://45.181.122.17:8000/play/a00y
+#EXTINF:0 tvg-id="CartoonNetwork.mx" group-title="Lista 25",Cartoon Network
+http://45.181.122.17:8000/play/a02m
+#EXTINF:0 tvg-id="CinecanalW.mx" group-title="Lista 25",Cinecanal
+http://45.181.122.17:8000/play/a02c
+#EXTINF:0 tvg-id="CinemaxO.mx" group-title="Lista 25",Cinemax
+http://45.181.122.17:8000/play/a009
+#EXTINF:0 tvg-id="DiscoveryChannel.mx" group-title="Lista 25",Discovery Channel
+http://45.181.122.17:8000/play/a00k
+#EXTINF:0 tvg-id="Investigation.uk" group-title="Lista 25",Discovery ID
+http://45.181.122.17:8000/play/a01p
+#EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="Lista 25",Discovery Kids
+http://45.181.122.17:8000/play/a013
+#EXTINF:0 tvg-id="DiscoveryTurbo.mx" group-title="Lista 25",Discovery Turbo
+http://45.181.122.17:8000/play/a00f
+#EXTINF:0 tvg-id="DisneyChannel.mx" group-title="Lista 25",Disney Channel
+http://45.181.122.17:8000/play/a00j
+#EXTINF:0 tvg-id="DisneyJr.mx" group-title="Lista 25",Disney Jr
+http://45.181.122.17:8000/play/a01k
+#EXTINF:0 tvg-id="DisneyXD.mx" group-title="Lista 25",Disney XD
+http://45.181.122.17:8000/play/a029
+#EXTINF:0 tvg-id="E.mx" group-title="Lista 25",E Entertainment
+http://45.181.122.17:8000/play/a00n
+#EXTINF:0 tvg-id="ESPN.mx" group-title="Lista 25",ESPN
+http://45.181.122.17:8000/play/a00q
+#EXTINF:0 tvg-id="ESPN2.mx" group-title="Lista 25",ESPN 2
+http://45.181.122.17:8000/play/a01m
+#EXTINF:0 tvg-id="ext" group-title="Lista 25",ESPN 2 Latin
+http://45.181.122.17:8000/play/a00p
+#EXTINF:0 tvg-id="ESPN3.mx" group-title="Lista 25",ESPN 3
+http://45.181.122.17:8000/play/a00h
+#EXTINF:0 tvg-id="Enlace.us" group-title="Lista 25",Enlace
+http://45.181.122.17:8000/play/a036
+#EXTINF:0 tvg-id="ext" group-title="Lista 25",Esne TV
+http://45.181.122.17:8000/play/a00g
+#EXTINF:0 tvg-id="FX.mx" group-title="Lista 25",FX
+http://45.181.122.17:8000/play/a00d
+#EXTINF:0 tvg-id="FXMovie.us" group-title="Lista 25",FXM
+http://45.181.122.17:8000/play/a01a
+#EXTINF:0 tvg-id="FoxSports.mx" group-title="Lista 25",Fox Sports
+http://45.181.122.17:8000/play/a00o
+#EXTINF:0 tvg-id="FOXSports1.us" group-title="Lista 25",Fox Sports 1
+http://45.181.122.17:8000/play/a01c
+#EXTINF:0 tvg-id="FoxSports2.mx" group-title="Lista 25",Fox Sports 2
+http://45.181.122.17:8000/play/a00z
+#EXTINF:0 tvg-id="FoxSports3.mx" group-title="Lista 25",Fox Sports 3
+http://45.181.122.17:8000/play/a010
+#EXTINF:0 tvg-id="France24.fr" group-title="Lista 25",France 24
+http://45.181.122.17:8000/play/a01q
+#EXTINF:0 tvg-id="GolTV.cl" group-title="Lista 25",GOL TV
+http://45.181.122.17:8000/play/a031
+#EXTINF:0 tvg-id="HBOHD.mx" group-title="Lista 25",HBO
+http://45.181.122.17:8000/play/a008
+#EXTINF:0 tvg-id="HBO2.mx" group-title="Lista 25",HBO 2
+http://45.181.122.17:8000/play/a01g
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="Lista 25",HBO Family
+http://45.181.122.17:8000/play/a01j
+#EXTINF:0 tvg-id="HBOPlusE.mx" group-title="Lista 25",HBO Plus
+http://45.181.122.17:8000/play/a01h
+#EXTINF:0 tvg-id="Maxprime.br" group-title="Lista 25",HBO XTREME SD
+http://45.181.122.17:8000/play/a01i
+#EXTINF:0 tvg-id="History.mx" group-title="Lista 25",History Channel
+http://45.181.122.17:8000/play/a02b
+#EXTINF:0 tvg-id="HomeHealth.mx" group-title="Lista 25",HomeandHealth
+http://45.181.122.17:8000/play/a01t
+#EXTINF:0 tvg-id="ISat.ar" group-title="Lista 25",I-Sat
+http://45.181.122.17:8000/play/a02e
+#EXTINF:0 tvg-id="Lared.cl" group-title="Lista 25",La Red
+http://45.181.122.17:8000/play/a015
+#EXTINF:0 tvg-id="MTV.mx" group-title="Lista 25",MTV
+http://45.181.122.17:8000/play/a02f
+#EXTINF:0 tvg-id="mega" group-title="Lista 25",Mega
+http://45.181.122.17:8000/play/a017
+#EXTINF:0 tvg-id="NTV.uk" group-title="Lista 25",NTV
+http://45.181.122.17:8000/play/a01n
+#EXTINF:0 tvg-id="NatGeo.mx" group-title="Lista 25",Nat Geo
+http://45.181.122.17:8000/play/a02a
+#EXTINF:0 tvg-id="ext" group-title="Lista 25",NatGeo Kids
+http://45.181.122.17:8000/play/a02l
+#EXTINF:0 tvg-id="NickJr.mx" group-title="Lista 25",Nick Jr
+http://45.181.122.17:8000/play/a00e
+#EXTINF:0 tvg-id="Nickelodeon.mx" group-title="Lista 25",Nickelodeon
+http://45.181.122.17:8000/play/a028
+#EXTINF:0 tvg-id="ext" group-title="Lista 25",RCN Novelas
+http://45.181.122.17:8000/play/a033
+#EXTINF:0 tvg-id="ext" group-title="Lista 25",STAR ACTION
+http://45.181.122.17:8000/play/a01f
+#EXTINF:0 tvg-id="otr" group-title="Lista 25",STAR CHANNEL
+http://45.181.122.17:8000/play/a02j
+#EXTINF:0 tvg-id="ext" group-title="Lista 25",STAR HITS
+http://45.181.122.17:8000/play/a01d
+#EXTINF:0 tvg-id="StarOne.uk" group-title="Lista 25",STAR LIFE
+http://45.181.122.17:8000/play/a02h
+#EXTINF:0 tvg-id="ext" group-title="Lista 25",STAR SERIES
+http://45.181.122.17:8000/play/a01e
+#EXTINF:0 tvg-id="Sony.mx" group-title="Lista 25",Sony
+http://45.181.122.17:8000/play/a00a
+#EXTINF:0 tvg-id="Space.mx" group-title="Lista 25",Space
+http://45.181.122.17:8000/play/a00c
+#EXTINF:0 tvg-id="TBS.mx" group-title="Lista 25",TBS
+http://45.181.122.17:8000/play/a01r
+#EXTINF:0 tvg-id="TCM.mx" group-title="Lista 25",TCM
+http://45.181.122.17:8000/play/a02k
+#EXTINF:0 tvg-id="TLC.mx" group-title="Lista 25",TLC
+http://45.181.122.17:8000/play/a00w
+#EXTINF:0 tvg-id="TNT.mx" group-title="Lista 25",TNT
+http://45.181.122.17:8000/play/a02n
+#EXTINF:0 tvg-id="ext" group-title="Lista 25",TNT SPORTS 2
+http://45.181.122.17:8000/play/a01b
+#EXTINF:0 tvg-id="ext" group-title="Lista 25",TNT SPORTS 3
+http://45.181.122.17:8000/play/a00t
+#EXTINF:0 tvg-id="TVE.mx" group-title="Lista 25",TVE
+http://45.181.122.17:8000/play/a02q
+#EXTINF:0 tvg-id="TVN.pl" group-title="Lista 25",TVN
+http://45.181.122.17:8000/play/a016
+#EXTINF:0 tvg-id="Telemundo.mx" group-title="Lista 25",Telemundo
+http://45.181.122.17:8000/play/a011
+#EXTINF:0 tvg-id="TyCSports.ar" group-title="Lista 25",TyC
+http://45.181.122.17:8000/play/a032
+#EXTINF:0 tvg-id="Universal.uk" group-title="Lista 25",Universal
+http://45.181.122.17:8000/play/a02d
+#EXTINF:0 tvg-id="VenusTV.uk" group-title="Lista 25",Venus
+http://45.181.122.17:8000/play/a00v
+#EXTINF:0 tvg-id="ext" group-title="Lista 25",ViaX
+http://45.181.122.17:8000/play/a00x
+#EXTINF:0 tvg-id="Warnerchannel.br" group-title="Lista 25",Warner
+http://45.181.122.17:8000/play/a00m
+#EXTINF:0 tvg-id="ZonaLatina.cl" group-title="Lista 25",Zona Latina
+http://45.181.122.17:8000/play/a02g
