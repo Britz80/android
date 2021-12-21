@@ -586,5 +586,6 @@ http://regioplay.xyz/php/SR_REGIO_411112_/regiotv2.php?c=291
 #EXTINF:0 tvg-id="ext" group-title="Lista TV" user-agent="megaplayer",Breaking bad
 http://regioplay.xyz/php/SR_REGIO_411112_/regiotv2.php?c=292
 #EXTINF:0 tvg-id="ext" group-title="Lista TV" user-agent="megaplayer",Bob Esponja 24/7
-http://regioplay.xyz/php/SR_REGIO_411112_/regiotv2.php?c=293
+http://regioplay.xyz/php/SR_REGIO_411112_/regiotv2.php?c=293 
+
 
